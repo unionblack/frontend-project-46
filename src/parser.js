@@ -1,0 +1,1 @@
+export const parse = (path) => JSON.parse(path);

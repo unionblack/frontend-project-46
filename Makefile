@@ -9,3 +9,7 @@ lint:
 
 lint-fix:
 	npx eslint . --fix
+
+diff:
+	gendiff -h
+
