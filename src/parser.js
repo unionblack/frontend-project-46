@@ -1,1 +1,1 @@
-export const parse = (path) => JSON.parse(path);
+export const parser = (path) => JSON.parse(path);
